@@ -1,16 +1,33 @@
-## Hi there 👋
+# Juan Pablo Ramirez Rojas
 
-<!--
-**Juan2RR/Juan2RR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Juan Pablo, tecnólogo en sistemas y estudiante de Ingeniería de Sistemas.  
+Me apasiona la tecnología y el desarrollo de software, y estoy enfocado en crecer profesionalmente en el sector.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+- Actualmente estudio Ingeniería de Sistemas para profundizar y ampliar mis conocimientos.  
+- Interesado en desarrollo web, programación y tecnologías modernas.  
+- Apasionado por aprender y enfrentar nuevos retos tecnológicos.
+
+---
+
+## Habilidades
+
+- Lenguajes: Python, Php, TypeScript, JavaScript, Java entre otros.  
+- Frameworks: Angular (en aprendizaje y práctica).  
+- Conocimientos en gestión de proyectos y mejores prácticas de desarrollo.
+- Linux
+- Uso avanzado de Git y plataformas como GitHub para control de versiones y colaboración.
+
+---
+
+## Contacto
+
+Puedes encontrar más sobre mi trabajo en mis repositorios y contactarme para colaboraciones o consultas.  
+¡Estoy abierto a nuevas oportunidades y proyectos!
+
+---
+
+Gracias por visitar mi perfil.
